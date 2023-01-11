@@ -29,6 +29,7 @@ There are results of my research of Evmos accounts *
 - [evmos-sr-transfers.csv](./evmos-sr-transfers.csv) is exported transactions data in CSV format
 - [evmos-private-sale.xlsx](./evmos-private-sale.xlsx) is the summarization tables of EVMOS token movement based on transactions and genesis data in XLSX format
 - [evmos-sr-transfers.png](./evmos-sr-transfers.png) is the summary pie chart of the Evmos SR account transfers in PNG format
+- [genesis.7z.001](./genesis.7z.001), [genesis.7z.002](./genesis.7z.002) and [genesis.7z.003](./genesis.7z.003) are exported genesis data in SQLite 3 database format and archived with 7zip archiver.
 
 ## Summary
 
